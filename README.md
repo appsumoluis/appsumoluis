@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **appsumoluis/appsumoluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi, there. I like debugging.
+
+## Hi, there. I'm Luis and like debugging.
 
 I love python, I like ruby and I'm in a love-hate relationship with javascript.
 
@@ -25,3 +24,5 @@ Next on my list is Go Lang.
 - 🤔 I’m looking for: both a mentor and a mentee
 - 💬 What could I talk for 30 minutes about with absolutely no preparation?: parenting, professional/personal growth, python
 - ⚡ Fun fact: I'm a terrible singer but love singing.
+
+![Isaac Newton Quote with Iron Giant](https://github.com/appsumoluis/appsumoluis/raw/master/main.jpg)
