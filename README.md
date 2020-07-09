@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi, there. I like debugging.
+
+I love python, I like ruby and I'm in a love-hate relationship with javascript.
+
+Next on my list is Go Lang.
+
+- 🔭 I’m currently working on *python and django*
+- 🌱 I’m currently learning *Go*
+- 🤔 I’m looking for: both a mentor and a mentee
+- 💬 What could I talk for 30 minutes about with absolutely no preparation?: parenting, professional/personal growth, python
+- ⚡ Fun fact: I'm a terrible singer but love singing.
